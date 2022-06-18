@@ -1,0 +1,1 @@
+!function(e,a,t,n,g,c,s){e.GoogleAnalyticsObject=t,e.ga||(e.ga=function(){(e.ga.q=e.ga.q||[]).push(arguments)}),e.ga.x=+new Date,c=a.createElement(n),s=a.getElementsByTagName(n)[0],c.src="https://www.google-analytics.com/analytics.js",s.parentNode.insertBefore(c,s)}(window,document,"ga","script"),ga("create","UA-122247573-1","uwusense.club"),ga("send","pageview");
